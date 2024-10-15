@@ -13,7 +13,7 @@
 - **Activity:**
   - Discuss tips on getting the most out of speaker sessions, such as preparing questions, actively listening, and applying insights.
   - Briefly introduce what to expect from the guest speaker, Kelsey.
-   
+
 ### Housekeeping (10 mins)
 - Talk about the new #data-study-buddies channel
 - Share about the Tanya break out room for help
@@ -33,10 +33,11 @@
 
 ### 5. Guest Speaker (45 mins)
 - **Time:** 11:05 AM - 11:50 AM
-**Kelsey’s Career Insights**
+
+  **Kelsey’s Career Insights**
   - **Facilitator:** Kelsey
   - **Activity:**
-    - Participants who have completed their dashboards join Kelsey to hear about her career journey, day in the life, and advice.
+    - Participants join Kelsey to hear about her career journey, day in the life, and advice.
     - Open Q&A for personalized advice and mentorship.
 
 ### 6. Wrap-Up and Next Steps (10 mins)

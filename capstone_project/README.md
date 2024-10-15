@@ -27,3 +27,4 @@ The capstone project for our data analytics course offers a practical, hands-on 
 ## Expected Outcomes
 
 By the end of this project, students will have completed a full data analysis project from start to finish, gained experience in client communication, and learned how to adapt their work based on feedback. The capstone project serves as an excellent portfolio piece and prepares students for future roles in data analytics.
+

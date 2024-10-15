@@ -64,6 +64,9 @@ Videos: Fun with Functions -
 [Part 2](https://www.loom.com/share/9f9080b37c3e470cb32c5b54531f8211) | 
 [Part 3](https://www.loom.com/share/93934778b2c84fc2a373d3ae26e9a1fa)
 
+
+Videos: Fun with Functions - [Part 1](https://www.loom.com/share/0f9ae677ba4c49d7b5c70f498903cba7) | [Part 2](https://www.loom.com/share/9f9080b37c3e470cb32c5b54531f8211) | [Part 3](https://www.loom.com/share/93934778b2c84fc2a373d3ae26e9a1fa)
+
 ### Step Four: Fun with Pivot Tables
 
 Functions work great for specific calculations while pivot tables are best for summarizing larger data sets.

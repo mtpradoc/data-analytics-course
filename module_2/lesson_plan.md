@@ -11,7 +11,7 @@
 **Objective:** Build connections among participants.  
 **Activity:**  
 - Breakout rooms with 4 participants per room for introductions and discussion.
-- Prompt ➡️ What do you love to do? What do you fan girl about?
+- Prompt ➡️ What do you love to do? What do you fan girl about? 
 - Person with the longest hair goes first
 
 ---
@@ -34,7 +34,7 @@
 - **Functions & Formulas:** Overview of key formulas such as SUM, AVERAGE, and IF.  
 - **Pivot Tables:** How to summarize data and extract insights.  
 - **Charts:** Effective data visualization techniques.  
-**Method:**    
+**Method:**   
 - Quick Q&A to address any lingering questions from the videos.
 
 ---
